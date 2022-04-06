@@ -2,3 +2,5 @@
 *.out
 *.h5
 codes/old_codes/**
+codes/.ipynb_checkpoints/**
+codes/__pycache__/**
